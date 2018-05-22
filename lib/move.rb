@@ -20,3 +20,5 @@ end
 
 move(board, 2, char)
 
+board
+
