@@ -13,10 +13,10 @@ def input_to_index(value)
   index -= 1
 end
 
+char = "X"
 
-
-def move(array, index, "X")
-  array[index] = "X"
+def move(array, index, char)
+  array[index] = char
 end
 
 
