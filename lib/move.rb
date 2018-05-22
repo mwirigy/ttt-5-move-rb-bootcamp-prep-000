@@ -18,3 +18,5 @@ def move(board,index, char)
   board[index] = char
 end
 
+move(board, 2, char)
+
