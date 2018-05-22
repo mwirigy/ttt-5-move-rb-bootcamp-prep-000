@@ -15,8 +15,8 @@ end
 
 
 
-def move(array, index, char)
-  array[index] = char
+def move(array, index, "X")
+  array[index] = "X"
 end
 
 
