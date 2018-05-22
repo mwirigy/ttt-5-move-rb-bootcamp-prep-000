@@ -19,7 +19,7 @@ def move(array,index, char)
   array[index] = char
 end
 
-move(board, 2, char)
 
-board
+
+
 
