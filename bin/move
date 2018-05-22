@@ -16,4 +16,4 @@ input = gets.strip
 
 index= input_to_index(input)
 
-move(board, index, char)
+move(board, index, "X")
